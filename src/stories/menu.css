@@ -1,0 +1,17 @@
+.storybook-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.storybook-menu-item {
+  border-radius: 20px;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  cursor: pointer;
+  margin: 0 20px;
+  padding: 10px 20px;
+}
